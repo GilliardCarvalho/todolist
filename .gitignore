@@ -1,0 +1,20 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Logs e temporários
+*.log
+*.tmp
+*.bak
+
+# IDEs
+*.iml
+.idea/
+.vscode/
+
+# SO
+.DS_Store
+Thumbs.db
+
+# Segredos/ambiente
+.env
